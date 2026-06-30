@@ -1,0 +1,2 @@
+﻿  OOP_Project_045,095.cpp
+C:\Users\User\source\repos\OOP_Project_045,095\OOP_Project_045,095\OOP_Project_045,095.cpp(115,13): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\OOP_Project_045,095\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBAC976-6FBD-4A4D-9A63-2D20A6394724}|OOP_Project_045,095\\OOP_Project_045,095.vcxproj|C:\\Users\\User\\source\\repos\\OOP_Project_045,095\\OOP_Project_045,095\\OOP_Project_045,095.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CBAC976-6FBD-4A4D-9A63-2D20A6394724}|OOP_Project_045,095\\OOP_Project_045,095.vcxproj|solutionrelative:OOP_Project_045,095\\OOP_Project_045,095.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP_Project_045,095.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Project_045,095\\OOP_Project_045,095\\OOP_Project_045,095.cpp",
+              "RelativeDocumentMoniker": "OOP_Project_045,095\\OOP_Project_045,095.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Project_045,095\\OOP_Project_045,095\\OOP_Project_045,095.cpp",
+              "RelativeToolTip": "OOP_Project_045,095\\OOP_Project_045,095.cpp",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAAAGsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T14:03:34.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
